@@ -1,0 +1,11 @@
+--2022-11-29 11:50:41--  https://images.launchbox-app.com/6cf796db-8db6-4edc-b383-fc6823edc5c5.png
+Resolving images.launchbox-app.com (images.launchbox-app.com)... 107.155.67.34
+Connecting to images.launchbox-app.com (images.launchbox-app.com)|107.155.67.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12092 (12K) [image/png]
+Saving to: ‘6cf796db-8db6-4edc-b383-fc6823edc5c5.png.1’
+
+     0K .......... .                                          100%  122M=0s
+
+2022-11-29 11:50:41 (122 MB/s) - ‘6cf796db-8db6-4edc-b383-fc6823edc5c5.png.1’ saved [12092/12092]
+
