@@ -1,7 +1,7 @@
 #######################################################################
 #   The High Voltage SID Collection (HVSC) Bugged Tunes List          #
 #   Maintained by iAN CooG <hvsc@c64.org>                             #
-#   Last Updated: February 13, 2022.                                  #
+#   Last Updated: June 15, 2023.                                      #
 #######################################################################
 #                                                                     #
 # The purpose of this text document is to highlight all the tunes     #
@@ -47,6 +47,10 @@
     BUG: Subtune #1 plays bad notes at 0:46. No bad reads.
 (Wilfred)
 
+/DEMOS/UNKNOWN/New_Intro.sid
+    BUG: Falls out of synch at 1:30.
+(iAN CooG)
+
 /DEMOS/UNKNOWN/Wham.sid
     BUG: Has a lot of wrong sounds inside, obviously a bad rip.
          Sounds bad from 2:12.
@@ -90,6 +94,10 @@
 
 /MUSICIANS/A/A-Man/Zack_Theme.sid
     BUG: Falls out of synch on loop. No good version found.
+
+/MUSICIANS/A/Astovel/Tengu_Warez_1_menu.sid
+    BUG: Gets progressively out of sync with each loop.
+(Mariusz)
 
 /MUSICIANS/A/Audial_Arts/Prijt_Francois/Blaze_of_Glory_Holland_Promo.sid
     BUG: Falls out of synch at around the 5:10 mark. This bug doesn't occur
