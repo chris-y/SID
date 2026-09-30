@@ -1,8 +1,8 @@
-December 25, 2025
+June 28, 2026
 
 (1) The new HVSC Update Tool only currently works on these platforms:
 
-     - Windows (95 through to Win10)
+     - Windows (10 and later)
      - Linux (Intel, ELF)
 
     Note also that as of HVSC Update #63, you _must_ use Update Tool
